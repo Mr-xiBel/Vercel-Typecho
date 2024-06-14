@@ -27,3 +27,5 @@ Typecho_Db::set($db);
 https://www.typechx.com/
 
 [typechx](https://www.typechx.com/)
+
+[npc.ink](https://www.npc.ink/tag/typecho-theme)
