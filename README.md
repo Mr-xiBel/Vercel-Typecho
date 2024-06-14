@@ -29,3 +29,5 @@ https://www.typechx.com/
 [typechx](https://www.typechx.com/)
 
 [npc.ink](https://www.npc.ink/tag/typecho-theme)
+
+[官网](https://forum.typecho.org/)
