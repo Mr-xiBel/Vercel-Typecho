@@ -22,3 +22,7 @@ $db->addServer(array (
 ), Typecho_Db::READ | Typecho_Db::WRITE);
 Typecho_Db::set($db);
 ```
+
+# 主题站点
+https://www.typechx.com/
+![typechx](https://www.typechx.com/)
